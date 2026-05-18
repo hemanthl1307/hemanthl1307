@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=200&section=header&text=Hemanth%20L&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=200&section=header&text=Hemanth%20L&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer+%7C+DSA+Enthusiast;Building+pixel-perfect+UIs+%F0%9F%8E%A8;Solving+problems%2C+one+algo+at+a+time+%F0%9F%A7%A0;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer+%7C+DSA+Enthusiast;Building+TimeSlice;;Always+learning%2C+always+growing;Building+with+passion" alt="Typing SVG" />
 
 <br/>
 
@@ -16,16 +16,16 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="margin-left:20px"/>
 
-## `> whoami`
+## `> WHO AM I`
 
 ```javascript
 const hemanth = {
   name        : "Hemanth L",
   location    : "India ",
   role        : "Frontend Developer",
-  focus       : ["UI/UX", "React", "DSA"],
+  focus       : ["Web Development", "DSA"],
   funFact     : "I debug in dark mode at 1AM ☕🌙",
   available   : true  // open to opportunities!
 };
@@ -53,8 +53,7 @@ const hemanth = {
 <div align="center">
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Data Structures](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
 
 </div>
 
@@ -65,8 +64,6 @@ const hemanth = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -76,9 +73,13 @@ const hemanth = {
 
 | Topic | Progress | Status |
 |-------|----------|--------|
-| Arrays & Strings | `███████████████` 80% | ✅ Strong |
-| Sorting & Searching | `████████████` 800% | ✅ Strong |
+| Arrays & Strings | `████████████████████` 100% | ✅ Strong |
+| Sorting & Searching | `████████████████████` 100% | ✅ Strong |
 | Recursion | `██████████░░░░░░░░░░` 50% | 🔄 In Progress |
+| Stacks & Queues | `░░░░░░░░░░░░░░░░░░░░` 0% | 📌 Up Next |
+| Linked Lists | `░░░░░░░░░░░░░░░░░░░░` 0% | 📌 Up Next |
+| Trees & Graphs | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Coming Soon |
+| Dynamic Programming | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Coming Soon |
 
 > *"Every problem solved is a weapon added to the arsenal."* ⚔️
 
@@ -92,7 +93,7 @@ const hemanth = {
 
 | 🚀 Project | 🛠 Stack | 🔗 Link |
 |-----------|---------|--------|
-| **Pooja Veg** | HTML + CSS + JS | [View →](https://github.com/hemanthl1307/pooja-veg) |
+| **Pooja Veg** | HTML + CSS + JS | [View →](https://pooja-veg.vercel.app/) |
 
 </div>
 
@@ -107,7 +108,9 @@ const hemanth = {
 | **CSS Workspace** | CSS | [View →](https://github.com/hemanthl1307/CSS_Workspace) |
 
 </div>
+
 ---
+
 ## `> connect --social`
 
 <div align="center">
