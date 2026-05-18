@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="margin-left:20px"/>
+<img align="right" alt="Coding GIF" width="340" height="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="margin-left:20px"/>
 
 ## `> WHO AM I`
 
@@ -56,9 +56,9 @@ const hemanth = {
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-![Data Structures](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
+<img src="https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black" />
 
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+<img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white" />
 
 </div>
 
@@ -88,7 +88,7 @@ const hemanth = {
 
 ## `> git projects`
 
-### Live Project
+### 🚀 Live Project
 
 <div align="center">
 
