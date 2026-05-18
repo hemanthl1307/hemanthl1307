@@ -38,18 +38,16 @@ const hemanth = {
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ### 🧠 DSA & Problem Solving
 
@@ -59,9 +57,8 @@ const hemanth = {
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<img src="https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+![Data Structures](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 </div>
 
@@ -71,12 +68,9 @@ const hemanth = {
 
 ### 🚀 Live Project
 
-
 | 🚀 Project | 🛠 Stack | 🔗 Link |
 |-----------|---------|--------|
 | **Pooja Veg** | HTML + CSS + JS | [View →](https://pooja-veg.vercel.app/) |
-
-
 
 ### 📚 Learning Repos
 
@@ -85,7 +79,6 @@ const hemanth = {
 | **DSA Solutions** | C++ | [View →](https://github.com/hemanthl1307/DSA) |
 | **HTML Workspace** | HTML | [View →](https://github.com/hemanthl1307/HTML_Workspace) |
 | **CSS Workspace** | CSS | [View →](https://github.com/hemanthl1307/CSS_Workspace) |
-
 
 ---
 
