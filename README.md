@@ -16,7 +16,9 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="270" height="180" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="margin-left:20px;"/>
+<div align="right" style="overflow:hidden; width:270px; height:180px; border-radius:8px; margin-left:20px; float:right;">
+  <img alt="Coding GIF" width="270" height="180" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="object-fit:cover; width:100%, margin-left:20px; height:100%;"/>
+</div>
 
 ## `> WHO AM I`
 
