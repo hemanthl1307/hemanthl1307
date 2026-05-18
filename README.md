@@ -28,12 +28,19 @@ const hemanth = {
   available   : true  // open to opportunities!
 };
 ```
-
-<br clear="right"/>
-
 ---
 
 ## `> Skills`
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 ### 🎨 Frontend Arsenal
 
@@ -72,33 +79,18 @@ const hemanth = {
 
 ---
 
-## `> DSA progress`
-
-| Topic | Progress | Status |
-|-------|----------|--------|
-| Arrays & Strings | `████████████████████░░░` 80% | ✅ Strong |
-| Sorting & Searching | `█████████████████░░░` 80% | ✅ Strong |
-| Recursion | `██████████░░░░░░░░░░` 50% | 🔄 In Progress |
-
-> *"Every problem solved is a weapon added to the arsenal."* ⚔️
-
----
-
 ## `> git projects`
 
 ### 🚀 Live Project
 
-<div align="center">
 
 | 🚀 Project | 🛠 Stack | 🔗 Link |
 |-----------|---------|--------|
 | **Pooja Veg** | HTML + CSS + JS | [View →](https://pooja-veg.vercel.app/) |
 
-</div>
+
 
 ### 📚 Learning Repos
-
-<div align="center">
 
 | 📖 Repo | 🛠 Stack | 🔗 Link |
 |--------|---------|--------|
@@ -106,7 +98,6 @@ const hemanth = {
 | **HTML Workspace** | HTML | [View →](https://github.com/hemanthl1307/HTML_Workspace) |
 | **CSS Workspace** | CSS | [View →](https://github.com/hemanthl1307/CSS_Workspace) |
 
-</div>
 
 ---
 
