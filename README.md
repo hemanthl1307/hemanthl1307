@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=200&section=header&text=Hemanth%20L&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer+%7C+DSA+Enthusiast;Building+TimeSlice;;Always+learning%2C+always+growing;Building+with+passion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer;+DSA+Enthusiast;Building+TimeSlice;Always+learning%2C+always+growing;Building+with+passion" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@ const hemanth = {
 
 ---
 
-## `> skills --list`
+## `> Skills`
 
 ### 🎨 Frontend Arsenal
 
@@ -52,8 +52,13 @@ const hemanth = {
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![DSA](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
+<a href="https://leetcode.com/u/hemanth0103/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
+
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 </div>
 
@@ -69,25 +74,21 @@ const hemanth = {
 
 ---
 
-## `> dsa --progress`
+## `> DSA progress`
 
 | Topic | Progress | Status |
 |-------|----------|--------|
-| Arrays & Strings | `████████████████████` 100% | ✅ Strong |
-| Sorting & Searching | `████████████████████` 100% | ✅ Strong |
+| Arrays & Strings | `████████████████████░░░` 80% | ✅ Strong |
+| Sorting & Searching | `█████████████████░░░` 80% | ✅ Strong |
 | Recursion | `██████████░░░░░░░░░░` 50% | 🔄 In Progress |
-| Stacks & Queues | `░░░░░░░░░░░░░░░░░░░░` 0% | 📌 Up Next |
-| Linked Lists | `░░░░░░░░░░░░░░░░░░░░` 0% | 📌 Up Next |
-| Trees & Graphs | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Coming Soon |
-| Dynamic Programming | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Coming Soon |
 
 > *"Every problem solved is a weapon added to the arsenal."* ⚔️
 
 ---
 
-## `> git log --projects`
+## `> git projects`
 
-### 🚀 Live Project
+### Live Project
 
 <div align="center">
 
@@ -111,7 +112,7 @@ const hemanth = {
 
 ---
 
-## `> connect --social`
+## `> connect`
 
 <div align="center">
 
