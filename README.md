@@ -18,16 +18,16 @@
 
 ## `> WHO AM I`
 
-```javascript
+<pre>
 const hemanth = {
-  name        : "Hemanth L",
-  location    : "India ",
-  role        : "Frontend Developer",
-  focus       : ["Web Development", "DSA"],
-  funFact     : "I debug in dark mode at 1AM ☕🌙",
-  available   : true  // open to opportunities!
-};
-```
+  name       : "Hemanth L",
+  location   : "India ",
+  role       : "Frontend Developer",
+  focus      : ["Web Development", "DSA"],
+  funFact    : "I debug in dark mode at 1AM ☕🌙",
+  available  : true  // open to opportunities!
+  };
+</pre>
 ---
 
 ## `> Skills`
@@ -94,12 +94,9 @@ const hemanth = {
 
 <br/>
 
-```
-┌─────────────────────────────────────────────┐
-│  "First, solve the problem.                 │
-│   Then, write the code."  — John Johnson    │
-└─────────────────────────────────────────────┘
-```
+---
+<center><p>"First, solve the problem. Then, write the code." — John Johnson</p></center>
+---
 
 <img src="https://komarev.com/ghpvc/?username=hemanthl1307&label=Profile+Views&color=00FF41&style=for-the-badge" alt="Profile Views"/>
 
