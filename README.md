@@ -16,20 +16,6 @@
 
 ---
 
-## `> WHO AM I`
-
-<pre>
-const hemanth = {
-  name       : "Hemanth L",
-  location   : "India ",
-  role       : "Frontend Developer",
-  focus      : ["Web Development", "DSA"],
-  funFact    : "I debug in dark mode at 1AM ☕🌙",
-  available  : true  // open to opportunities!
-  };
-</pre>
----
-
 ## `> Skills`
 
 ## 🛠️ Tech Stack
