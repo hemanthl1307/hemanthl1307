@@ -81,11 +81,9 @@
 
 ---
 <center><p>"First, solve the problem. Then, write the code." — John Johnson</p></center>
----
-
 
 <img src="https://komarev.com/ghpvc/?username=hemanthl1307&label=Profile+Views&color=00FF41&style=for-the-badge" alt="Profile Views"/>
 
 </div>
-
+---
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00FF41&height=100&section=footer)
