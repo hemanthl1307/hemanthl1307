@@ -31,7 +31,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -83,6 +82,7 @@
 ---
 <center><p>"First, solve the problem. Then, write the code." — John Johnson</p></center>
 ---
+
 
 <img src="https://komarev.com/ghpvc/?username=hemanthl1307&label=Profile+Views&color=00FF41&style=for-the-badge" alt="Profile Views"/>
 
