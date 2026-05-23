@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=200&section=header&text=Hemanth%20L&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer;+DSA+Enthusiast;Building+TimeSlice;Always+learning%2C+always+growing;Building+with+passion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer;Building+TimeSlice;Always+learning%2C+always+growing;Building+with+passion" alt="Typing SVG" />
 
 <br/>
 
@@ -31,19 +31,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-</div>
-
-### 🧠 DSA & Problem Solving
-
-<div align="center">
-
-<a href="https://leetcode.com/u/hemanth0103/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-![Data Structures](https://img.shields.io/badge/Data_Structures-00FF41?style=for-the-badge&logo=thealgorithms&logoColor=black)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 </div>
 
