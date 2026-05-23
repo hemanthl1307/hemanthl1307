@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=200&section=header&text=Hemanth%20L&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:006400&height=200&section=header&text=Hemanth%20L&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+L+%F0%9F%91%8B;Frontend+Developer;Building+TimeSlice;Always+learning%2C+always+growing;Building+with+passion" alt="Typing SVG" />
 
