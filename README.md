@@ -48,7 +48,6 @@
 
 | 📖 Repo | 🛠 Stack | 🔗 Link |
 |--------|---------|--------|
-| **DSA Solutions** | C++ | [View →](https://github.com/hemanthl1307/DSA) |
 | **HTML Workspace** | HTML | [View →](https://github.com/hemanthl1307/HTML_Workspace) |
 | **CSS Workspace** | CSS | [View →](https://github.com/hemanthl1307/CSS_Workspace) |
 
@@ -58,7 +57,7 @@
 
 <div align="center">
 
-> I'm always open to collaborating on cool projects, discussing DSA problems, or just geeking out about frontend!
+> I'm always open to collaborating on cool projects,or just geeking out about frontend!
 
 <br/>
 
