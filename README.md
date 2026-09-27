@@ -48,7 +48,7 @@
 ### 🛠️ Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -58,21 +58,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
 </p>
-
-<br/>
-
----
-
-## 🔵 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthl1307&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=bae6fd" width="100%" />
-
-</div>
-
-<br/>
-
 
 <br/>
 
@@ -95,7 +80,7 @@
 
 <div align="center">
 
-*" Build. Learn. Improve. Repeat.."*
+*"Hardwork + Consistency + Discipline = Success"*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=120&section=footer)
 
